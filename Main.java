@@ -8,7 +8,7 @@ public class Main{
      System.out.println("Hello");
       System.out.println("added one more file");
     
-Student student = net Student();
+Student student = new Student();
 student.sayHello();
 
     }
